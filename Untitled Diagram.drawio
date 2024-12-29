@@ -4,32 +4,113 @@
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
-        <mxCell id="WD2J03sTBG4vTbbsbsCk-1" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_modem;" vertex="1" parent="1">
-          <mxGeometry x="-1670" y="-1090" width="100" height="85" as="geometry" />
+        <mxCell id="WD2J03sTBG4vTbbsbsCk-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1340" y="-1001" width="210" height="321" as="geometry" />
         </mxCell>
-        <mxCell id="WD2J03sTBG4vTbbsbsCk-2" value="Ziggo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=45;" vertex="1" parent="1">
-          <mxGeometry x="-1650" y="-1180" width="60" height="30" as="geometry" />
+        <mxCell id="WD2J03sTBG4vTbbsbsCk-1" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_modem;" vertex="1" parent="1">
+          <mxGeometry x="-1675" y="-1220" width="100" height="85" as="geometry" />
         </mxCell>
         <mxCell id="WD2J03sTBG4vTbbsbsCk-3" value="Modem" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1650" y="-1005" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1660" y="-1200" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WD2J03sTBG4vTbbsbsCk-4" value="" style="endArrow=classic;html=1;rounded=0;fontStyle=1" edge="1" parent="1">
+        <mxCell id="WD2J03sTBG4vTbbsbsCk-4" value="" style="endArrow=classic;html=1;rounded=0;fontStyle=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WD2J03sTBG4vTbbsbsCk-1" target="WD2J03sTBG4vTbbsbsCk-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1620.1799999999998" y="-960" as="sourcePoint" />
-            <mxPoint x="-1620.59" y="-895" as="targetPoint" />
+            <mxPoint x="-1625.1799999999998" y="-1090" as="sourcePoint" />
+            <mxPoint x="-1625.59" y="-1025" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-1620.59" y="-915" />
+              <mxPoint x="-1625.59" y="-1045" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WD2J03sTBG4vTbbsbsCk-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1725" y="-870" width="210" height="320" as="geometry" />
+          <mxGeometry x="-1730" y="-1000" width="210" height="320" as="geometry" />
         </mxCell>
         <mxCell id="WD2J03sTBG4vTbbsbsCk-7" value="Ziggo8451459" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-1650" y="-850" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1655" y="-980" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WD2J03sTBG4vTbbsbsCk-8" value="Leeg netwerk" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1675" y="-730" width="110" height="30" as="geometry" />
+          <mxGeometry x="-1680" y="-960" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WD2J03sTBG4vTbbsbsCk-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;" vertex="1" parent="1">
+          <mxGeometry x="-1275.9099999999999" y="-1100" width="81.82" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WD2J03sTBG4vTbbsbsCk-11" value="Ferrari&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-1265" y="-990" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WD2J03sTBG4vTbbsbsCk-12" value="Algemeen netwerk" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1290" y="-961" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WD2J03sTBG4vTbbsbsCk-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.453;entryY=-0.284;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="WD2J03sTBG4vTbbsbsCk-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1570" y="-1160" as="sourcePoint" />
+            <mxPoint x="-1370" y="-920" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1239" y="-1160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WD2J03sTBG4vTbbsbsCk-15" value="Deco X20" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1264.9999999999998" y="-1070" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WD2J03sTBG4vTbbsbsCk-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WD2J03sTBG4vTbbsbsCk-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1420" y="-870" as="sourcePoint" />
+            <mxPoint x="-1235" y="-1000" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1235" y="-1020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WD2J03sTBG4vTbbsbsCk-18" value="" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="-1070" y="-1125" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WD2J03sTBG4vTbbsbsCk-19" value="TP-Link SG105E" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1050" y="-1055" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WD2J03sTBG4vTbbsbsCk-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" edge="1" parent="1" source="WD2J03sTBG4vTbbsbsCk-18" target="WD2J03sTBG4vTbbsbsCk-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1420" y="-870" as="sourcePoint" />
+            <mxPoint x="-1000" y="-830" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-846" y="-1085" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WD2J03sTBG4vTbbsbsCk-21" value="Homelab" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="-876.5" y="-1040" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WD2J03sTBG4vTbbsbsCk-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-906.5" y="-1005" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WD2J03sTBG4vTbbsbsCk-24" value="Raspberry Pi 5 4GB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-906.5" y="-995" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WD2J03sTBG4vTbbsbsCk-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-906.5" y="-935" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WD2J03sTBG4vTbbsbsCk-26" value="Raspberry Pi 4 2GB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-906.5" y="-925" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WD2J03sTBG4vTbbsbsCk-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-906.5" y="-864" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WD2J03sTBG4vTbbsbsCk-28" value="Raspberry Pi 4 1GB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-906.5" y="-854" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WD2J03sTBG4vTbbsbsCk-29" value="WAN PORT MODEM -&amp;gt; WAN PORT DECO X20" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1545" y="-1192.5" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WD2J03sTBG4vTbbsbsCk-34" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" edge="1" parent="1" source="WD2J03sTBG4vTbbsbsCk-9" target="WD2J03sTBG4vTbbsbsCk-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1194" y="-1085" as="sourcePoint" />
+            <mxPoint x="-1070" y="-1130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WD2J03sTBG4vTbbsbsCk-33" value="LAN PORT -&amp;gt; PORT 5" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="-1205" y="-1110" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WD2J03sTBG4vTbbsbsCk-36" value="PORT 1, 2, 3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-970" y="-1110" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

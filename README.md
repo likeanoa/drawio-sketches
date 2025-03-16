@@ -1,6 +1,6 @@
 Currently learning SQL & PHP for backend developing.
 
-- How to reach me: Email (noa@ntproductions.org)
+noa@ryvextechnologies.com
 
 <!---
 likeanoa/likeanoa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

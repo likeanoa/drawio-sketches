@@ -1,4 +1,4 @@
-Currently learning SQL & PHP for backend developing.
+web development and personal projects
 
 noa@ryvextechnologies.com
 
